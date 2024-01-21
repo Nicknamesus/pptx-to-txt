@@ -9,3 +9,6 @@ The  path can be with "" or without them, but shouldn't have any other symbols a
 
 ## Output
 The program will either create a file called --name of the presentation--_insides.xlsx in the same folder as the presentaion or if it exists already edit the existing file.
+
+
+Developped by Nikita Gamygin
